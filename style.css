@@ -1,0 +1,13 @@
+.nav-section{
+    font-family: 'Inter', sans-serif;
+    
+}
+.avt-container{}
+.avt-container div{
+    border: 2px solid red;
+    width: 50px;
+    margin-bottom: 5px;
+}
+.arr{
+    
+}
